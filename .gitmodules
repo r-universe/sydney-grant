@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "compSPOT"]
+	path = compSPOT
+	url = https://github.com/sydney-grant/compspot
 [submodule "seq.hotSPOT"]
 	path = seq.hotSPOT
 	url = https://github.com/sydney-grant/seq.hotspot
